@@ -1,0 +1,6 @@
+{
+  "bundle_path": "evidence_bundle.json",
+  "signature_path": "evidence_bundle.sig",
+  "algorithm": "RSA-SHA256",
+  "signature_base64": "QH2bHLxTIaIpG6Mo9cQgUzqmNmbYUoSLasDKI6vKXWUbKMQDWue/B4wNVfUF7d//8km08mEaenrBH3jRdP6yw2lkjfSjipumaa/TudwtpUZUXIcI6TH/vM6obP/7eFiQ81baPDvwZp9tBg3YTykOARJASdgn9PQfnMwvsoDBKkRsiEMx+v2LACLrQMQQch6sy9mqDbuEqrpBhGhdYCGl0o+uIyK8L9BQE9dn0uJRi+35MM37/ntke1dhKXcXh5Etcj5ixADHdmL1aLDr8uYZENgKfGst2hXZ1J9MBWAeIGwW37JyklOWErOGIAe55GzlOcZx76XUSVjH8rOlmreJpCEPooMjTRE8J6rd/FAyNlHDhsAgcPpO8oEat/0BjOoe0u2jn8mX9pQlHAj9XJjIttJS/cGPkB9pqWcHW2zAMt3aO34PbhfLyKse7VP7O1a1jYp6cRSADEZyaex2NIS4Aa3OZBGkAVMRNlDOb2mPBqzBAjxbjqTg+wBpFXouyamt"
+}

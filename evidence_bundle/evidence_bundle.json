@@ -1,0 +1,53 @@
+{
+  "bundle_type": "signed_evidence_bundle",
+  "stage": "Stage213",
+  "generated_at_utc": "2026-03-11T08:36:12.829257+00:00",
+  "repo_root": "stage213",
+  "artifact_count": 8,
+  "artifacts": [
+    {
+      "path": "README.md",
+      "sha256": "4f702c704fc3a5eb8c19623650da26ee447f1cb356ad4cdb8c1afb32cc2ce322",
+      "size_bytes": 2627
+    },
+    {
+      "path": "docs/claim_evidence_mapping.md",
+      "sha256": "da81066ecceadf43ee63f1705637c08f2c0ac4ff166e3709fc3f9a6bf66235ad",
+      "size_bytes": 1019
+    },
+    {
+      "path": "docs/guarantees.md",
+      "sha256": "1669dfe21c79d31f494f93dd493d7409cc0a16ba2b9954ee2122bd622773f1a3",
+      "size_bytes": 172
+    },
+    {
+      "path": "docs/security_assumptions.md",
+      "sha256": "4e0ef890000942b66d7481d45918dc8d0df5c1839c513d8237bfe6843db7e05f",
+      "size_bytes": 287
+    },
+    {
+      "path": "docs/security_claims.md",
+      "sha256": "4fa21ca50261bdfd751524faad4dab344a0edb8ceec9510112d74931ddc171ea",
+      "size_bytes": 1533
+    },
+    {
+      "path": "docs/threat_model.md",
+      "sha256": "4254c3865eebf38b54b51d7da59e8bd1d39eb91894499f63d354e0be5de3ebbb",
+      "size_bytes": 201
+    },
+    {
+      "path": "out/ci/actions_jobs.json",
+      "sha256": "89c5744a97ac1d4d9b3ee49c5a8837c8f59ec86e5a7c08e1bcf4c1dc30476b8f",
+      "size_bytes": 496
+    },
+    {
+      "path": "out/ci/actions_runs.json",
+      "sha256": "ce670be8e6140b8e9f8a4fe117a221f21291bf0f384f97b62319cf10dca2e186",
+      "size_bytes": 115
+    }
+  ],
+  "notes": [
+    "This bundle is intended to bind claim-related evidence to cryptographic integrity metadata.",
+    "Bundle JSON itself is later hashed and signed."
+  ]
+}

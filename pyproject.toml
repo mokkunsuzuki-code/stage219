@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stage207-qspcrypto-min"
+version = "0.1.0"
+description = "Stage207: Minimal Crypto Integration (PQC stub + HKDF + AES-GCM) with fail-closed"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "cryptography>=42.0.0",
+  "pytest>=8.0.0",
+]
+
+[tool.setuptools]
+packages = ["qspcrypto"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]

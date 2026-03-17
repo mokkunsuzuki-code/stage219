@@ -1,0 +1,10 @@
+# generated artifacts
+out/
+
+# python cache
+__pycache__/
+*.pyc
+
+# private keys
+keys/*_private.pem
+keys/*.key
